@@ -17,5 +17,9 @@ A clear and concise description of what you expected to happen.
 If applicable, add screenshots to help explain your problem.
 
 **Device details:**
-- Pixel 4
-- Android 10
+Device:
+OS:
+
+**Community App details**
+Version (found in Account > Settings > About):
+Connected forum (Community App Staging or Audentio Forums):
